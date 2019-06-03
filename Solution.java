@@ -1,4 +1,4 @@
-//This code wont even run correcty, still working on that (Going to sleep, lol)
+//This code wont even compile, still working on that (Going to sleep, lol)
 
 import java.io.*;
 import java.util.*;
